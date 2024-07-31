@@ -1,0 +1,3 @@
+# BD_Customer_Shopping_Trends
+
+Este conjunto de datos incluye varias características relacionadas con las preferencias de compra de los clientes y recopila información esencial para las empresas que buscan mejorar su conocimiento de su base de clientes. Las características incluyen la edad del cliente, el género, el monto de la compra, los métodos de pago preferidos, la frecuencia de las compras y las calificaciones de los comentarios. Además, se incluyen datos sobre el tipo de artículos comprados, la frecuencia de compra, las temporadas de compra preferidas y las interacciones con las ofertas promocionales. 
