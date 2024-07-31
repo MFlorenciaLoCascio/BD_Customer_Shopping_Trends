@@ -45,35 +45,34 @@ print(data.duplicated().sum())
 
 ### Análisis Estadístico para obtener:
 
-**Count** (El número de valores no nulos en la columna)
+   1- **Count** (El número de valores no nulos en la columna)
 
-**Mean** (La media aritmética de la columna)
+   2- **Mean** (La media aritmética de la columna)
 
-**Std** (La desviación estándar de la columna)
+   3- **Std** (La desviación estándar de la columna)
 
-**Min** (El valor mínimo en la columna)
+   4- **Min** (El valor mínimo en la columna)
 
-**25%** (El primer cuartil (percentil 25) de la columna)
+   5- **25%** (El primer cuartil (percentil 25) de la columna)
 
-**50%** (La mediana (percentil 50) de la columna)
+   6- **50%** (La mediana (percentil 50) de la columna)
 
-**75%** (El tercer cuartil (percentil 75) de la columna)
+   7- **75%** (El tercer cuartil (percentil 75) de la columna)
 
-**Max** (El valor máximo en la columna)
+   8- **Max** (El valor máximo en la columna)
 
-**Mediana** (El valor central de los datos cuando están ordenados)
+   9- **Mediana** (El valor central de los datos cuando están ordenados)
 
-**Varianza** (Una medida de dispersión de los datos respecto a su media)
+   10- **Varianza** (Una medida de dispersión de los datos respecto a su media)
 
-**Rango** (La diferencia entre el valor máximo y mínimo)
+   11- **Rango** (La diferencia entre el valor máximo y mínimo)
 
-**Moda** (El valor que más se repite en los datos)
+   12- **Moda** (El valor que más se repite en los datos)
 
-### Exploración detallada de las columnas numéricas, obteniendo: 
+### Exploración detallada de las columnas numéricas: 
 
-**Contar la cantidad de valores únicos:** Identifica la diversidad de valores dentro de cada columna
-
-**Analizar la frecuencia de cada valor:** Permite detectar valores atípicos o patrones recurrentes
+   - **Contar la cantidad de valores únicos:** Identifica la diversidad de valores dentro de cada columna
+   - **Analizar la frecuencia de cada valor:** Permite detectar valores atípicos o patrones recurrentes
 
 
 
