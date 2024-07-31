@@ -16,31 +16,67 @@ Cojunto de Datos descargado de Kaggle, archivo: `shopping_trends_updated.csv`, [
 
 ## Análisis en Python fundamental para comprender la naturaleza de los datos, detectar posibles errores o inconsistencias, y tomar decisiones informadas en el proceso de análisis y modelado. Al que luego se llevó a cabo un análisis más profundo en Power BI.
 
-Puede visualizar el archivo detallado realizado en Jupyter Notebook [AQUÍ]()
+👉 Puede visualizar el archivo detallado realizado en Jupyter Notebook [AQUÍ]()
 Donde se realizó lo siguiente: 
 + Importar librerías
 + Carga del dataset (nombre del data frame `data`)
-+ Análisis de la Calidad de los Datos
-    - Cantidad de registros y columnas:
+
+### Análisis de la Calidad de los Datos
+   - Cantidad de registros y columnas:
 ```
 data.shape
 ```
-    - Conocer información de los datos (vista previa de los primeros 5 registros):
+   - Conocer información de los datos (vista previa de los primeros 5 registros):
 ```
 data.head()
 ```
-    - Tipos de datos para cada columna:
+   - Tipos de datos para cada columna:
 ```
 print(data.dtypes)
 ```
-    - Suma de valores nulos por columna:
+  - Suma de valores nulos por columna:
 ```
 print(data.isna().sum()
 ```
-    - Verificar si hay duplicados:
+   - Verificar si hay duplicados:
 ```
 print(data.duplicated().sum())
 ```
-sf
+
+### Análisis Estadístico para obtener:
+
+**Count** (El número de valores no nulos en la columna)
+
+**Mean** (La media aritmética de la columna)
+
+**Std** (La desviación estándar de la columna)
+
+**Min** (El valor mínimo en la columna)
+
+**25%** (El primer cuartil (percentil 25) de la columna)
+
+**50%** (La mediana (percentil 50) de la columna)
+
+**75%** (El tercer cuartil (percentil 75) de la columna)
+
+**Max** (El valor máximo en la columna)
+
+**Mediana** (El valor central de los datos cuando están ordenados)
+
+**Varianza** (Una medida de dispersión de los datos respecto a su media)
+
+**Rango** (La diferencia entre el valor máximo y mínimo)
+
+**Moda** (El valor que más se repite en los datos)
+
+### Exploración detallada de las columnas numéricas, obteniendo: 
+
+**Contar la cantidad de valores únicos:** Identifica la diversidad de valores dentro de cada columna
+
+**Analizar la frecuencia de cada valor:** Permite detectar valores atípicos o patrones recurrentes
 
 
+
+## 📊 *Power Bi*
+
+Aquí puede ingresar a ver el 
