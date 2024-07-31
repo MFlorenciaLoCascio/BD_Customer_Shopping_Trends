@@ -21,14 +21,26 @@ Donde se realizó lo siguiente:
 + Importar librerías
 + Carga del dataset (nombre del data frame `data`)
 + Análisis de la Calidad de los Datos
-    - Cantidad de registros y columnas `data.shape`
-    - Conocer información de los datos, vista previa de 5 registros `data.head()`
-    - Tipos de datos para cada columna `print(data.dtypes)`
-    - Suma de valores nulos por columna `print(data.isna().sum()`
+    - Cantidad de registros y columnas:
+```
+data.shape
+```
+    - Conocer información de los datos (vista previa de los primeros 5 registros):
+```
+data.head()
+```
+    - Tipos de datos para cada columna:
+```
+print(data.dtypes)
+```
+    - Suma de valores nulos por columna:
+```
+print(data.isna().sum()
+```
     - Verificar si hay duplicados:
 ```
-print(data.duplicated().sum())`
+print(data.duplicated().sum())
 ```
-
+sf
 
 
