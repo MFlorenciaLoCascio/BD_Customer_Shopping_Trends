@@ -4,11 +4,11 @@
 
 Este conjunto de datos incluye varias características relacionadas con las preferencias de compra de los clientes, ofreciendo información valiosa sobre el comportamiento y los patrones de compra de los consumidores. 
 
-Las características incluyen la edad del cliente, el género, el monto de la compra, los métodos de pago preferidos, la frecuencia de las compras y las calificaciones de los comentarios. Además, se incluyen datos sobre el tipo de artículos comprados, la frecuencia de compra, las temporadas de compra preferidas y las interacciones con las ofertas promocionales. 
+Las características incluyen la edad del cliente, el género, el monto de la compra, los métodos de pago preferidos y la frecuencia de las compras. Además, se incluyen datos sobre el tipo de artículos comprados, la frecuencia de compra, las temporadas de compra preferidas y las interacciones con las ofertas promocionales. 
 
 ## 🎯Objetivo: 
 
-Comprender las preferencias y tendencias de los clientes es fundamental para que las empresas adapten sus productos, estrategias de marketing y la experiencia general del cliente. 
+Comprender las preferencias y tendencias de los clientes es fundamental para que las empresas adapten sus productos y generen estrategias de marketing.
 
 El análisis de estos datos puede ayudar a las empresas a tomar decisiones informadas, optimizar las ofertas de productos y mejorar la satisfacción del cliente. El conjunto de datos es un recurso valioso para las empresas que buscan alinear sus estrategias con las necesidades y preferencias de los clientes.
 
