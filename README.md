@@ -14,9 +14,9 @@ El análisis de estos datos puede ayudar a las empresas a tomar decisiones infor
 
 Cojunto de Datos descargado de Kaggle, archivo: `shopping_trends_updated.csv`, [Customer Shopping Trends Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)
 
-## Análisis en Python fundamental para comprender la naturaleza de los datos, detectar posibles errores o inconsistencias, y tomar decisiones informadas en el proceso de análisis y modelado. Al que luego se llevó a cabo un análisis más profundo en Power BI.
+## 👉 Análisis en Python fundamental para comprender la naturaleza de los datos, detectar posibles errores o inconsistencias, y tomar decisiones informadas en el proceso de análisis y modelado. Al que luego se llevó a cabo un análisis más profundo en Power BI.
 
-👉 Puede visualizar el archivo detallado realizado en Jupyter Notebook con Código Python: [Analysis Customer Shopping Trends.ipynb](https://github.com/MFlorenciaLoCascio/BD_Customer_Shopping_Trends/blob/main/Analysis%20Customer%20Shopping%20Trends.ipynb)
+Puede visualizar el archivo detallado realizado en Jupyter Notebook con Código Python: [Analysis Customer Shopping Trends.ipynb](https://github.com/MFlorenciaLoCascio/BD_Customer_Shopping_Trends/blob/main/Analysis%20Customer%20Shopping%20Trends.ipynb)
 Donde se realizó:
 - Análisis de la Calidad de los Datos: (Cantidad de registros y columnas, Conocer información de los datos, Tipos de datos para cada columna, Suma de valores nulos por columna, Verificar si hay duplicados:
 - Análisis Estadístico: El número de valores no nulos en la columna, La media aritmética, La desviación estándar, El valor mínimo, El primer cuartil (percentil 25), La mediana (percentil 50), El tercer cuartil (percentil 75), El valor máximo, La Mediana (El valor central de los datos cuando están ordenados), La Varianza (Una medida de dispersión de los datos respecto a su media), El Rango (La diferencia entre el valor máximo y mínimo) y la Moda (El valor que más se repite en los datos).
@@ -29,3 +29,9 @@ Dashboard interactivo para conocer la edad promedio de los clientes, el género 
 
 Puede visualizar el dashboard realizado en Power Bi: 
 [Reporting Analysis Customer Shopping Trends](https://app.powerbi.com/view?r=eyJrIjoiYmU5OGJiZTMtYmZiMC00ZTA3LWEyM2ItNDljMjYwZDdkZWUwIiwidCI6IjdmMmY3MDM3LTljNjMtNDY3Ni04YzRkLWNjZjgyZDZhZjVlMyIsImMiOjR9&pageName=027072f97c2d97fdec71)
+
+### Herramientas utilizadas: 
+Jupyter Notebook, Python
+Power Bi, DAX, Power Query
+Figma para el template de PBI
+
