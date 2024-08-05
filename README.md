@@ -16,66 +16,16 @@ Cojunto de Datos descargado de Kaggle, archivo: `shopping_trends_updated.csv`, [
 
 ## Análisis en Python fundamental para comprender la naturaleza de los datos, detectar posibles errores o inconsistencias, y tomar decisiones informadas en el proceso de análisis y modelado. Al que luego se llevó a cabo un análisis más profundo en Power BI.
 
-👉 Puede visualizar el archivo detallado realizado en Jupyter Notebook [AQUÍ]()
-Donde se realizó lo siguiente: 
-+ Importar librerías
-+ Carga del dataset (nombre del data frame `data`)
-
-### Análisis de la Calidad de los Datos
-   - Cantidad de registros y columnas:
-```
-data.shape
-```
-   - Conocer información de los datos (vista previa de los primeros 5 registros):
-```
-data.head()
-```
-   - Tipos de datos para cada columna:
-```
-print(data.dtypes)
-```
-  - Suma de valores nulos por columna:
-```
-print(data.isna().sum()
-```
-   - Verificar si hay duplicados:
-```
-print(data.duplicated().sum())
-```
-
-### Análisis Estadístico para obtener:
-
-   1- **Count** (El número de valores no nulos en la columna)
-
-   2- **Mean** (La media aritmética de la columna)
-
-   3- **Std** (La desviación estándar de la columna)
-
-   4- **Min** (El valor mínimo en la columna)
-
-   5- **25%** (El primer cuartil (percentil 25) de la columna)
-
-   6- **50%** (La mediana (percentil 50) de la columna)
-
-   7- **75%** (El tercer cuartil (percentil 75) de la columna)
-
-   8- **Max** (El valor máximo en la columna)
-
-   9- **Mediana** (El valor central de los datos cuando están ordenados)
-
-   10- **Varianza** (Una medida de dispersión de los datos respecto a su media)
-
-   11- **Rango** (La diferencia entre el valor máximo y mínimo)
-
-   12- **Moda** (El valor que más se repite en los datos)
-
-### Exploración detallada de las columnas numéricas: 
-
-   - **Contar la cantidad de valores únicos:** Identifica la diversidad de valores dentro de cada columna
-   - **Analizar la frecuencia de cada valor:** Permite detectar valores atípicos o patrones recurrentes
-
+👉 Puede visualizar el archivo detallado realizado en Jupyter Notebook con Código Python: [Analysis Customer Shopping Trends.ipynb](https://github.com/MFlorenciaLoCascio/BD_Customer_Shopping_Trends/blob/main/Analysis%20Customer%20Shopping%20Trends.ipynb)
+Donde se realizó:
+- Análisis de la Calidad de los Datos: (Cantidad de registros y columnas, Conocer información de los datos, Tipos de datos para cada columna, Suma de valores nulos por columna, Verificar si hay duplicados:
+- Análisis Estadístico: El número de valores no nulos en la columna, La media aritmética, La desviación estándar, El valor mínimo, El primer cuartil (percentil 25), La mediana (percentil 50), El tercer cuartil (percentil 75), El valor máximo, La Mediana (El valor central de los datos cuando están ordenados), La Varianza (Una medida de dispersión de los datos respecto a su media), El Rango (La diferencia entre el valor máximo y mínimo) y la Moda (El valor que más se repite en los datos).
+- Exploración detallada de las columnas numéricas: (Contar la cantidad de valores únicos y Analizar la frecuencia de cada valor)
 
 
 ## 📊 *Power Bi*
 
-[DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiYmU5OGJiZTMtYmZiMC00ZTA3LWEyM2ItNDljMjYwZDdkZWUwIiwidCI6IjdmMmY3MDM3LTljNjMtNDY3Ni04YzRkLWNjZjgyZDZhZjVlMyIsImMiOjR9&pageName=027072f97c2d97fdec71)
+Dashboard interactivo para conocer la edad promedio de los clientes, el género que mas realiza compras, los ingresos y descuentos, los métodos de pago preferidos, la frecuencia de las compras por temporadas y categorias y articulos, los metodos de envios mas requeridos. Comprender estas preferencias y tendencias es esencial para que las empresas adapten sus productos y estrategias de manera más efectiva!!
+
+Puede visualizar el dashboard realizado en Power Bi: 
+[Reporting Analysis Customer Shopping Trends](https://app.powerbi.com/view?r=eyJrIjoiYmU5OGJiZTMtYmZiMC00ZTA3LWEyM2ItNDljMjYwZDdkZWUwIiwidCI6IjdmMmY3MDM3LTljNjMtNDY3Ni04YzRkLWNjZjgyZDZhZjVlMyIsImMiOjR9&pageName=027072f97c2d97fdec71)
