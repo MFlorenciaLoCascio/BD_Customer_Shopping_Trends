@@ -33,6 +33,9 @@ Puede visualizar el dashboard realizado en Power Bi:
 
 ![Reporting Analysis Customer Shopping Trends](https://github.com/user-attachments/assets/1cfa53c8-e3ad-4585-b0a2-81a814340682)
 
+Panel de filtros (con boton para mostrar/ocultar)
+![image](https://github.com/user-attachments/assets/74b39b10-b4cb-4017-bc54-a445ef68f322)
+
 ## ⚙️ Herramientas utilizadas: 
 
 Jupyter Notebook, Python
