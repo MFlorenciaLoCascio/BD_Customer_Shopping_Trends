@@ -1,5 +1,5 @@
 <center>
-<h1> Analysis Customer Shopping Trends </h1>
+<h1> Analysis Customer Shopping Trends 🛍️ </h1>
 </center>
 
 Este conjunto de datos incluye varias características relacionadas con las preferencias de compra de los clientes, ofreciendo información valiosa sobre el comportamiento y los patrones de compra de los consumidores. 
